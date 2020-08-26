@@ -1,2 +1,3 @@
 # 2D-Game
-In order to see the contents, need to unzip the Assets.
+
+Two main games are 2D project and One_Man_Sky, feel free to try.
