@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0db70c5a198f9f7488877d7fa56efd79, type: 3}
+  m_Name: Thermal Weapon
+  m_EditorClassIdentifier: 
+  itemName: Thermal Weapon
+  itemObject: {fileID: 324379911751830005, guid: c443d7af57b2cd149bd3a58b702ea5d8,
+    type: 3}
+  icon: {fileID: 21300000, guid: 0119898ae99a6424dbd7592dea9df005, type: 3}
+  description: A set of twin thermal cannons that will burn through a target's hull
+    over time.
+  equipSlot: 0
+  fireDelay: 0.4

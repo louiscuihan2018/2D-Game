@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cabf8a71765cb1d49939b7f354f22204, type: 3}
+  m_Name: Time Bomb
+  m_EditorClassIdentifier: 
+  itemName: Time Bomb
+  itemObject: {fileID: 8935496575452690854, guid: 3836f3ba36543124f9aa6ffdedcedffe,
+    type: 3}
+  icon: {fileID: 21300000, guid: 4e8cedfb2a7ed1442966d5e836bd6983, type: 3}
+  description: A deployable bomb that will detonate after a few seconds.
+  equipSlot: 1
+  launchDelay: 5
